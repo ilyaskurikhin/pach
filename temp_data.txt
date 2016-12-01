@@ -1,9 +1,13 @@
 # These are temp data values while a better representation is made
 
 Please, please:
-
+4
 
 Question ?!:
+4
 
+Fascinating!:
+1
 
-
+I don't know what I am doing:
+1
